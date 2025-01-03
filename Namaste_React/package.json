@@ -1,0 +1,21 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavgaje/Namaste_React.git"
+  },
+  "keywords": [],
+  "author": "Vaibhav Gaje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavgaje/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/vaibhavgaje/Namaste_React#readme"
+}
+
